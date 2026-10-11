@@ -13,6 +13,7 @@ I'm a beginner programmer. My goal is to move toward low-level programming, but 
 - Beginner C, C# and C++ skills
 - Git
 - Linux (arch, mint, fedora)
+- Comfortable working in the terminal
 
 [![My Skills](https://skillicons.dev/icons?i=arch,c,cs,cpp,html,js,css,git,linux,mint,py,raspberrypi,unity,vim,vscode)](https://skillicons.dev)
 
