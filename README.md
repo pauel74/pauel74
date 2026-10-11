@@ -8,7 +8,7 @@ I'm a beginner programmer. My goal is to move toward low-level programming, but 
 - Scratch (good knowledge: 3D with the pencil tool, complex functions)
 - Basics in Unity
 - Variables, data types, loops, conditions, functions, arrays/lists, recursion
-- Object-oriented programming (classes)
+- Object-oriented programming
 - File handling (reading/writing)
 - Beginner C, C# and C++ skills
 - Git
@@ -20,18 +20,19 @@ I'm a beginner programmer. My goal is to move toward low-level programming, but 
 
 - Low-level programming
 - Rust
-- More about operating systems
+- Deeper operating systems understanding
 - Cybersecurity and networking
 - Building a voxel engine in C++
 - Machine learning
 
+### How I learn
 I write my code by hand and only rarely use AI for debugging
 
 ## Other skills
 
 - Adobe Creative Cloud suite
 - Graphic design
-- Photography and videography (lightroom, davinci-resolve)
+- Photography and videography (Lightroom, DaVinci Resolve)
 
 [![My Skills](https://skillicons.dev/icons?i=ae,ai,blender,ps,pr)](https://skillicons.dev)
 
