@@ -30,7 +30,7 @@ I write my code by hand and only rarely use AI for debugging
 
 ## Other skills
 
-- Adobe Creative Cloud suite
+- Design Tools
 - Graphic design
 - Photography and videography (Lightroom, DaVinci Resolve)
 
