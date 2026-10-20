@@ -1,41 +1,23 @@
-# Hi, I'm Paul 👋
+# Hi, I'm Paul :)
 
-I'm a beginner programmer. My goal is to move toward low-level programming, but for now I'm learning the basics with Python.
+I am a beginner programmer currently focusing on learning C++. I write my code by hand and only _occasionally_ use AI for debugging and advice.
+Currently collaborating with [@mMamuto](https://github.com/mMamuto) on [cppLearningRoadmap](https://github.com/pauel74/cppLearningRoadmap).
 
-## What I know
+[![My Skills](https://skillicons.dev/icons?i=cpp,vscode,git)](https://skillicons.dev)
 
-- Basic website building using HTML, JavaScript and CSS
-- Scratch (good knowledge: 3D with the pencil tool, complex functions)
-- Basics in Unity
-- Variables, data types, loops, conditions, functions, arrays/lists, recursion
+## What I know so far
+
+- Python foundamentals
+- Website building using HTML, JavaScript and CSS
 - Object-oriented programming
-- File handling (reading/writing)
-- Beginner C, C# and C++ skills
-- Git
-- Linux (arch, mint, fedora)
-- Comfortable working in the terminal
+- C, C# and C++ basics
+- Linux
 
-[![My Skills](https://skillicons.dev/icons?i=arch,c,cs,cpp,html,js,css,git,linux,mint,py,raspberrypi,unity,vim,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,cs,html,js,css,arch,mint,raspberrypi)](https://skillicons.dev)
 
-## What I want to learn
+### Design Tools
 
-- Low-level programming
-- Rust
-- Deeper operating systems understanding
-- Cybersecurity and networking
-- Building a voxel engine in C++
-- Machine learning
-
-### How I learn
-I write my code by hand and only rarely use AI for debugging
-
-## Other skills
-
-- Design Tools
-- Graphic design
-- Photography and videography (Lightroom, DaVinci Resolve)
-
-[![My Skills](https://skillicons.dev/icons?i=ae,ai,blender,ps,pr)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ae,ai,ps,pr,blender)](https://skillicons.dev)
 
 ## Contact
 
