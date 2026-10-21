@@ -1,16 +1,18 @@
 # Hi, I'm Paul :)
 
-I am a beginner programmer currently focusing on learning C++. I write my code by hand and only _occasionally_ use AI for debugging and advice.
+I am a beginner programmer currently focusing on learning C++. 
+I write my code from scratch and only _occasionally_ use AI for debugging or advice.
 Currently collaborating with [@mMamuto](https://github.com/mMamuto) on [cppLearningRoadmap](https://github.com/pauel74/cppLearningRoadmap).
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,vscode,git)](https://skillicons.dev)
 
 ## What I know so far
 
-- Python foundamentals
-- Website building using HTML, JavaScript and CSS
+- Python fundamentals
+- Web development using HTML, CSS, and JavaScript
 - Object-oriented programming
 - C, C# and C++ basics
+- Object-oriented programming
 - Linux
 
 [![My Skills](https://skillicons.dev/icons?i=py,c,cs,html,js,css,arch,mint,raspberrypi)](https://skillicons.dev)
