@@ -23,5 +23,5 @@ Currently collaborating with [@mMamuto](https://github.com/mMamuto) on [cppLearn
 
 ## Contact
 
-[![Email](https://img.shields.io/badge/Email-paul@tritschler.de-D14836?logo=gmail&logoColor=white)](mailto:paul@tritschler.de)
+[![Email](https://img.shields.io/badge/Email-paul@tritschler.es-D14836?logo=gmail&logoColor=white)](mailto:paul@tritschler.de)
 [![Discord](https://img.shields.io/badge/Discord-pau__el-5865F2?logo=discord&logoColor=white)](https://discord.com/users/693815132085551174)
